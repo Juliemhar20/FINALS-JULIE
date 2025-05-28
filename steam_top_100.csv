@@ -1,0 +1,101 @@
+Rank,Title,Genre,Price,Release_Year,Average_Players,Peak_Players,Rating
+1,Counter-Strike: Global Offensive,Action,0.0,2012,621325,1438795,9.5
+2,Dota 2,MOBA,0.0,2013,486230,823564,9.2
+3,PUBG: BATTLEGROUNDS,Battle Royale,0.0,2017,182420,369279,8.6
+4,Apex Legends,Battle Royale,0.0,2020,140000,310000,8.9
+5,Grand Theft Auto V,Action-Adventure,29.99,2015,101263,160334,9.0
+6,Destiny 2,MMORPG,0.0,2017,90000,120000,8.7
+7,Call of Duty®: Modern Warfare® II | Warzone™ 2.0,FPS,0.0,2022,85000,110000,8.5
+8,Team Fortress 2,FPS,0.0,2007,80000,100000,8.8
+9,Rust,Survival,39.99,2018,75000,95000,8.6
+10,Wallpaper Engine,Utilities,3.99,2016,70000,90000,9.1
+11,ARK: Survival Evolved,Survival,19.99,2017,68000,88000,8.4
+12,Warframe,Action RPG,0.0,2013,67000,85000,8.5
+13,Cyberpunk 2077,RPG,59.99,2020,65000,83000,8.1
+14,Left 4 Dead 2,Co-op FPS,9.99,2009,63000,82000,8.9
+15,Garry's Mod,Sandbox,9.99,2006,62000,80000,8.8
+16,Sid Meier's Civilization VI,Strategy,59.99,2016,60000,78000,8.6
+17,The Elder Scrolls V: Skyrim Special Edition,RPG,39.99,2016,59000,77000,9.1
+18,Monster Hunter: World,Action RPG,29.99,2018,58000,75000,8.7
+19,Tom Clancy's Rainbow Six Siege,FPS,19.99,2015,57000,74000,8.4
+20,The Witcher 3: Wild Hunt,RPG,39.99,2015,56000,73000,9.3
+21,Phasmophobia,Horror,13.99,2020,55000,72000,8.4
+22,Valheim,Survival,19.99,2021,54000,71000,8.6
+23,Euro Truck Simulator 2,Simulation,19.99,2012,53000,70000,8.8
+24,Red Dead Redemption 2,Action-Adventure,59.99,2019,52000,69000,9.2
+25,Among Us,Party,4.99,2018,51000,68000,8.1
+26,Dead by Daylight,Horror,19.99,2016,50000,67000,8.3
+27,Fallout 4,RPG,19.99,2015,49000,66000,8.5
+28,Terraria,Sandbox,9.99,2011,48000,65000,9.0
+29,Sea of Thieves,Action-Adventure,39.99,2020,47000,64000,8.4
+30,The Forest,Survival,14.99,2018,46000,63000,8.3
+31,Stardew Valley,Simulation,14.99,2016,45000,62000,9.4
+32,The Sims 4,Simulation,0.0,2020,44000,61000,8.2
+33,Football Manager 2024,Sports,59.99,2023,43000,60000,8.1
+34,Baldur's Gate 3,RPG,59.99,2023,42000,59000,9.6
+35,PAYDAY 2,Co-op FPS,9.99,2013,41000,58000,8.4
+36,Slay the Spire,Deckbuilder,24.99,2019,40000,56000,8.9
+37,Don't Starve Together,Survival,14.99,2016,39000,55000,8.8
+38,Hunt: Showdown,Shooter,39.99,2019,38000,54000,8.2
+39,Lethal Company,Horror Co-op,9.99,2023,37000,52000,8.7
+40,Project Zomboid,Survival,19.99,2013,36000,51000,8.5
+41,Vampire Survivors,Roguelike,4.99,2022,35000,50000,8.9
+42,Sons Of The Forest,Survival Horror,29.99,2023,34000,49000,8.3
+43,Dark Souls III,Action RPG,59.99,2016,33000,47000,9.0
+44,Total War: WARHAMMER III,Strategy,59.99,2022,32000,46000,8.1
+45,ELDEN RING,Action RPG,59.99,2022,31000,45000,9.5
+46,Farming Simulator 22,Simulation,49.99,2021,30000,44000,8.0
+47,Left 4 Dead,Co-op FPS,9.99,2008,29000,42000,8.6
+48,The Binding of Isaac: Rebirth,Roguelike,14.99,2014,28000,41000,8.8
+49,No Man's Sky,Exploration,59.99,2016,27000,40000,8.5
+50,BattleBit Remastered,Shooter,14.99,2023,26000,39000,8.6
+51,Portal 2,Puzzle,9.99,2011,25000,38000,9.6
+52,Half-Life: Alyx,VR Shooter,59.99,2020,24000,37000,9.4
+53,Crusader Kings III,Strategy,49.99,2020,23000,36000,8.3
+54,Grounded,Survival,39.99,2022,22000,35000,8.4
+55,Borderlands 3,Shooter RPG,59.99,2020,21000,34000,8.0
+56,It Takes Two,Co-op Adventure,39.99,2021,20000,33000,9.2
+57,Halo: The Master Chief Collection,FPS,39.99,2019,19000,32000,8.6
+58,Deep Rock Galactic,Co-op Shooter,29.99,2020,18000,31000,8.9
+59,Forza Horizon 5,Racing,59.99,2021,17000,30000,8.7
+60,Palworld,Survival RPG,29.99,2024,16000,29000,8.1
+61,RimWorld,Simulation,34.99,2018,15000,28000,9.3
+62,Rogue Legacy 2,Roguelike,24.99,2022,14500,27000,8.5
+63,Hades,Action Roguelike,24.99,2020,14000,26000,9.4
+64,Starfield,Sci-Fi RPG,69.99,2023,13500,25000,8.2
+65,Slime Rancher 2,Simulation,29.99,2022,13000,24000,8.0
+66,Darkest Dungeon II,Roguelike RPG,39.99,2023,12500,23000,8.4
+67,Teardown,Destruction Sandbox,29.99,2022,12000,22000,8.6
+68,American Truck Simulator,Simulation,19.99,2016,11500,21000,8.5
+69,Hogwarts Legacy,Action RPG,59.99,2023,11000,20000,7.9
+70,Dying Light,Action Horror,29.99,2015,10500,19000,8.3
+71,Subnautica,Survival,29.99,2018,10000,18000,9.0
+72,Among Trees,Survival,19.99,2019,9500,17500,8.2
+73,Factorio,Simulation,30.0,2020,9000,17000,9.5
+74,Cuphead,Platformer,19.99,2017,8500,16500,9.2
+75,Ori and the Will of the Wisps,Platformer,29.99,2020,8000,16000,9.3
+76,Celeste,Platformer,19.99,2018,7500,15500,9.6
+77,Dead Cells,Roguelike,24.99,2018,7000,15000,9.1
+78,Terraria,Sandbox,9.99,2011,6800,14500,9.0
+79,Rust,Survival,39.99,2018,6600,14000,8.5
+80,Don’t Starve,Survival,14.99,2013,6400,13500,8.7
+81,Overwatch 2,FPS,0.0,2022,6200,13000,7.8
+82,Rocket League,Sports,0.0,2015,6000,12500,8.3
+83,Ghostrunner,Action,29.99,2020,5800,12000,8.1
+84,Hollow Knight,Metroidvania,14.99,2017,5600,11500,9.4
+85,Apex Legends,Battle Royale,0.0,2019,5400,11000,8.6
+86,Minecraft,Sandbox,26.95,2011,5200,10500,9.5
+87,Among Us,Party,4.99,2018,5000,10000,8.1
+88,The Outer Worlds,RPG,59.99,2019,4800,9500,8.0
+89,Control,Action,29.99,2019,4600,9000,8.3
+90,Rainbow Six Extraction,FPS,39.99,2022,4400,8500,7.9
+91,Nier: Automata,Action RPG,29.99,2017,4200,8000,9.0
+92,Dishonored 2,Stealth,39.99,2016,4000,7800,8.7
+93,Dead Space,Horror,19.99,2023,3800,7600,8.1
+94,Mordhau,Medieval Combat,29.99,2019,3600,7400,8.4
+95,Cities: Skylines,Simulation,29.99,2015,3400,7200,8.8
+96,Among Trees,Survival,19.99,2019,3200,7000,8.2
+97,Satisfactory,Simulation,29.99,2019,3000,6800,8.6
+98,The Long Dark,Survival,29.99,2017,2800,6600,8.3
+99,Cyberpunk 2077,RPG,59.99,2020,2600,6400,8.1
+100,Mount & Blade II: Bannerlord,Strategy RPG,49.99,2020,2400,6200,8.4
